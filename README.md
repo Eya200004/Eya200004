@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm AYA, I am a computer student.
+I'm AYA, I am a computer engineering student.
 
 ### Programming Languages & Tools
 
