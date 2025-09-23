@@ -30,7 +30,9 @@
 🧠 **Libraries & Frameworks** : Scikit-learn, Pandas, NumPy, Matplotlib, TensorFlow (learning)  
 
 ---
-
-🌟 *"Code is not just lines, it’s a story we tell to the machine to make ideas alive."* 🌟  
-
 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/aya-karfi-5314ba2b8/) 
+
+<p align="center">
+🌟 *"Code is not just lines, it’s a story we tell to the machine to make ideas alive."* 🌟  
+</p>
+
