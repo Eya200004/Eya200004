@@ -1,18 +1,18 @@
-# Hi there! 👋 I'm Aya  
+# Hi there! I'm Aya  
 
-🎓 **Computer Engineering Student** | 🤖 **Data & AI Enthusiast** | 💻 **Future Innovator**  
-
----
-
-### 🚀 About Me  
-- 👩‍💻 Passionate about **Artificial Intelligence, Data Science, and Software Development**  
-- 📊 Interested in **Machine Learning, Deep Learning, and Intelligent Systems**  
-- 🌍 Curious and always eager to **learn, build, and share knowledge**  
-- 🌟 Currently exploring **AI-powered applications** and **full-stack projects**  
+ **Computer Engineering Student** | **Data & AI Enthusiast** | **Future Innovator**  
 
 ---
 
-### 🛠️ Programming Languages & Tools  
+### About Me  
+-  Passionate about **Artificial Intelligence, Data Science, and Software Development**  
+-  Interested in **Machine Learning, Deep Learning, and Intelligent Systems**  
+-  Curious and always eager to **learn, build, and share knowledge**  
+-  Currently exploring **AI-powered applications** and **full-stack projects**  
+
+---
+
+###  Programming Languages & Tools  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -27,10 +27,10 @@
 </p>
 
 
-🧠 **Libraries & Frameworks** : Scikit-learn, Pandas, NumPy, Matplotlib, TensorFlow (learning)  
+ **Libraries & Frameworks** : Scikit-learn, Pandas, NumPy, Matplotlib, TensorFlow (learning)  
 
 ---
-📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/aya-karfi-5314ba2b8/) 
+ Let’s connect: [LinkedIn](https://www.linkedin.com/in/aya-karfi-5314ba2b8/) 
 
 <p align="center">
 🌟 *"Code is not just lines, it’s a story we tell to the machine to make ideas alive."* 🌟  
