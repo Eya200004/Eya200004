@@ -54,14 +54,6 @@
 
 ---
 
-## GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eya200004&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
 ## Current Focus  
 
 - 📦 Building **data pipelines & ETL systems**  
